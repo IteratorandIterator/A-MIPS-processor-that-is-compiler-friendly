@@ -5,4 +5,4 @@ The MIPS processor features a pipelined structure, supports serial communication
 
 TEST RESULTS:
 <img width="257" alt="image" src="https://github.com/IteratorandIterator/A-MIPS-processor-that-is-compiler-friendly/assets/98395922/96219e66-08f7-446c-8b58-c43eb90e683e">
-<img width="281" alt="image" src="https://github.com/IteratorandIterator/A-MIPS-processor-that-is-compiler-friendly/assets/98395922/2a508881-ccde-4165-b1c1-0d9db9b9b1bf">
+
